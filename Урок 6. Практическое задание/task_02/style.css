@@ -1,8 +1,0 @@
-.scale {
-    width: 400px;
-}
-
-/* убираем подчёркивание */
-#lightgallery > a {
-    text-decoration: none;
-}
